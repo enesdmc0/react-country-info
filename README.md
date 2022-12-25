@@ -22,21 +22,21 @@
 
 ### Built With
 
-* REACT
+* React
 
-* JAVASCRIPT
+* Javascript
 
-* TAILWIND
+* Tailwind
 
-* AXIOS
+* Axios
 
-* REACT SELECT
+* React Select
 
-* REACT ICONS
+* React Icons
 
-* UNSPLASH
+* Unsplash.com
 
-* WEBSTORM
+* Webstorm
 
   
 
@@ -46,7 +46,7 @@
 
   
 
-  Contact
+  ## Contact
 
   ### Enes Demirci
 
@@ -59,6 +59,5 @@
   
 
 [product-screenshot]: images/country-info.png
-[Twitter] : https://twitter.com/enesdmc00
-[Linkedin] : https://www.linkedin.com/in/enesdemirci1
+
 
