@@ -59,9 +59,6 @@
   
 
 [product-screenshot]: images/country-info.png
-[ React ] :https://img.shields.io/badge/-REACT-black
-
-[ Twitter ] : https://twitter.com/enesdmc00
-
-[ Linkedin ] : https://www.linkedin.com/in/enesdemirci1
+[Twitter] : https://twitter.com/enesdmc00
+[Linkedin] : https://www.linkedin.com/in/enesdemirci1
 
