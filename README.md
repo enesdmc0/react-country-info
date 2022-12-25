@@ -6,6 +6,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 <h3 align="center">React Country Info</h3>
+</div>
 
 
 
